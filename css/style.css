@@ -1,0 +1,27 @@
+body {
+  background-color: #effcef;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #c0ffb3;
+  border-width: thick;
+  width: 5%;
+}
+
+h1 {
+  color: #21bf73;
+}
+
+h2 {
+  color: #7fcd91;
+}
+
+h3 {
+  color: #52de97;
+}
+
+.unsecure-web {
+  color: purple;
+
+}
